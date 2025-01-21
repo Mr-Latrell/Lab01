@@ -3,8 +3,8 @@ First Lab Assignment
 
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Keonje Paige
+- Email: paige.34@wright.edu
 
 ## Part 1 - GitHub Profile
 
