@@ -9,6 +9,7 @@ First Lab Assignment
 ## Part 1 - GitHub Profile
 
 1. [your_github_username_here Profile](FIXTHISURL-https://github.com/your_username)
+   [Mr-Latrell Profile](https://github.com/Mr-Latrell)
 
 ## Part 2 - Research
 
