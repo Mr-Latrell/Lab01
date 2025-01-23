@@ -7,15 +7,13 @@ First Lab Assignment
 - Email: paige.34@wright.edu
 
 ## Part 1 - GitHub Profile
-
-1. [your_github_username_here Profile](FIXTHISURL-https://github.com/your_username)
-   [Mr-Latrell Profile](https://github.com/Mr-Latrell)
+[Mr-Latrell Profile](https://github.com/Mr-Latrell)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         | 1. help - This command displays the many available commands or detailed help information on a specified command.          |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
@@ -27,7 +25,6 @@ First Lab Assignment
 | notepad.exe | vim     |        |
 
 Windows
-1. help - This command displays the many available commands or detailed help information on a specified command.
 All of the functions, scripts, and modules that reside in the system will shown.
 2. Get-Location - This command is what helps show the location of you current path.
 3. Get-ChildItem - This command keeps track on all the items the device will have a certain location.
