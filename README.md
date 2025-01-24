@@ -46,20 +46,32 @@ MY COMMAND LINE SHELL IS WINDOWS POWERSHELL
 ### Navigating My OS on the Command Line
 
 1. Create a directory named `DirA`:
+mkdir DirA
 2. Create a directory named `Dir B`:
+mkdir "Dir B"
 3. Go into `DirA`:
+Set-Location DirA
 4. Go into `Dir B` from `DirA`:
+Set-Location "C:\Users\Je\Dir B"
 5. Return to your user's home directory:
+Set-Location "C:\Users\Je"
 6. Create a file named `test.txt`:
+ New-Item -Path "C:\Users\Je\test.txt" -ItemType File
 7. Move the file named `test.txt` into `DirA`:
+Move-Item -Path "C:\Users\Je\test.txt" -Destination "C:\Users\Je\DirA"
 8. Contents of `test.txt`:
+Get-Content "C:\Users\Je\DirA\test.txt"
 ```
-Put your words here
+Testing, Testing, One Two, One Two.
 ```
 9. Make a copy of `test.txt` named `copy.txt` in `DirA`:
+Copy-Item -Path "C:\Users\Je\DirA\test.txt" -Destination "C:\Users\Je\DirA\copy.txt"
 10. View the contents of `DirA`: 
+Get-ChildItem
 11. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
+Copy-Item -Path "C:\Users\Je\DirA\test.txt" -Destination "C:\Users\Je\Dir B\fodder.txt"
 12. Delete / remove both `fodder.txt` AND `Dir B`:
+Remove-Item -Path "C:\Users\Je\Dir B\fodder.txt"
 
 ## Citations
 
