@@ -36,7 +36,12 @@ My OS is:
 - [] Linux
 - [] Mac
 
+MY OS IS WINDOWS
+
 My Command Line Shell is: 
+
+MY COMMAND LINE SHELL IS WINDOWS POWERSHELL
+
 
 ### Navigating My OS on the Command Line
 
