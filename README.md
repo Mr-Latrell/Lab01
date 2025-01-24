@@ -14,7 +14,7 @@ First Lab Assignment
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         |help - This command displays the many available commands or detailed help information on a specified command.               |
-| Get-Location pwd    |Get-Location - This command is what helps show the location of you current path.|
+| Get-Location| pwd    |Get-Location - This command is what helps show the location of you current path.|
 | Get-ChildItem | ls    |Get-ChildItem - This command keeps track on all the items the device will have a certain location.
         |
 | mkdir   | mkdir       |mkdir - This command is what helps make folders and files
