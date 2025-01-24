@@ -17,7 +17,7 @@ First Lab Assignment
 | Get-Location| pwd    |Get-Location - This command is what helps show the location of you current path.|
 | Get-ChildItem | ls    |Get-ChildItem - This command keeps track on all the items the device will have a certain location.
         |
-| mkdir   | mkdir       |mkdir - This command is what helps make folders and files
+mkdir   | mkdir       |mkdir - This command is what helps make folders and files
         |
 | Set-Location | cd     |Set-Location - This commands functions like that of the cd(change directory) command, changing the location of terminal,folder, and file.        |
 | New-Item | touch      |New-Item - This command is the Windows PowerShell equivalence of the touch command, meaning it creates files. |
