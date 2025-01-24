@@ -13,30 +13,27 @@ First Lab Assignment
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         | 1. help - This command displays the many available commands or detailed help information on a specified command.          |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| help    | man         |help - This command displays the many available commands or detailed help information on a specified command.          |
+| Get-Location | pwd    |Get-Location - This command is what helps show the location of you current path.
+       |
+| Get-ChildItem | ls    |Get-ChildItem - This command keeps track on all the items the device will have a certain location.
+        |
+| mkdir   | mkdir       |mkdir - This command is what helps make folders and files
+        |
+| Set-Location | cd     |Set-Location - This commands functions like that of the cd(change directory) command, changing the location of terminal,folder, and file.        |
+| New-Item | touch      |New-Item - This command is the Windows PowerShell equivalence of the touch command, meaning it creates files. |
+| Move-Item | mv        |Move-Item - This is the command that helps relocate a file, folder, or registry key from one location to another.
+      |
+| Copy-Item | cp        |Copy-Item - This is the Windows Prompt used to copy file,folders,etc. to another location.
+        |
+| Remove-Item | rm      |Remove-Item - This the Windows Prompt PowerShell equivalence of the rm command, where it removes any previous files, folders, etc.        |
+| notepad.exe | vim     |notepad.exe - This is the command to use to open a notepad file.
+        |
 
 Windows
 All of the functions, scripts, and modules that reside in the system will shown.
-2. Get-Location - This command is what helps show the location of you current path.
-3. Get-ChildItem - This command keeps track on all the items the device will have a certain location.
-4. mkdir - This command is what helps make folders and files
-5. Set-Location - This commands functions like that of the cd(change directory) command, changing the location of
-terminal,folder, and file.
-6. New-Item - This command is the Windows PowerShell equivalence of the touch command, meaning it creates files.
-7. Move-Item - This is the command that helps relocate a file, folder, or registry key from one location to another.
-8. Copy-Item - This is the Windows Prompt used to copy file,folders,etc. to another location.
-9. Remove-Item - This the Windows Prompt PowerShell equivalence of the rm command, where it removes any previous 
-files, folders, etc.
-10. notepad.exe - This is the command to use to open a notepad file.
+
+
 ## Part 3 - Command Line Navigation
 
 My OS is:
