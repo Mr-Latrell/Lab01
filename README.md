@@ -19,10 +19,8 @@ First Lab Assignment
 |mkdir   | mkdir       |mkdir - This command is what helps make folders and files|
 | Set-Location | cd     |Set-Location - This commands functions like that of the cd(change directory) command, changing the location of terminal,folder, and file.        |
 | New-Item | touch      |New-Item - This command is the Windows PowerShell equivalence of the touch command, meaning it creates files. |
-| Move-Item | mv        |Move-Item - This is the command that helps relocate a file, folder, or registry key from one location to another.
-      |
-| Copy-Item | cp        |Copy-Item - This is the Windows Prompt used to copy file,folders,etc. to another location.
-        |
+| Move-Item | mv        |Move-Item - This is the command that helps relocate a file, folder, or registry key from one location to another.|
+| Copy-Item | cp        |Copy-Item - This is the Windows Prompt used to copy file,folders,etc. to another location.|
 | Remove-Item | rm      |Remove-Item - This the Windows Prompt PowerShell equivalence of the rm command, where it removes any previous files, folders, etc.        |
 | notepad.exe | vim     |notepad.exe - This is the command to use to open a notepad file.
         |
