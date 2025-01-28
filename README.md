@@ -77,5 +77,11 @@ Remove-Item -Path "C:\Users\Je\Dir B\fodder.txt"
 
 To add citations, provide the cite and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
 
+1. Google AI overview was what helped me retrieve the the functionalities of each of the commands and provided some examples of how to use the commands correctly. As well as found the answers trough the Microsoft website specifically talking about Powershell management.
+
+2. Sdwheeler. (n.d.). Get-content (microsoft.powershell.management) - powershell. (Microsoft.PowerShell.Management) - PowerShell | Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.4 
+
+3. Sdwheeler. (n.d.-b). Remove-item (microsoft.powershell.management) - powershell. (Microsoft.PowerShell.Management) - PowerShell | Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-item?view=powershell-7.4 
+
 
 
